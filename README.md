@@ -1,0 +1,1 @@
+adb -s R5CR10H3S9D reverse tcp:5000 tcp:5000
